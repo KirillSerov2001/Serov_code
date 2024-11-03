@@ -21,7 +21,7 @@ pip install psycopg2
 2. Запустите скрипт:
 
    ```bash
-   python <название_файла>.py
+   python database_renew.py
 
 ## Введите данные для подключения к базе данных:
 
