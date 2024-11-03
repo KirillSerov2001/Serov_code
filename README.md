@@ -12,6 +12,7 @@
 Установка `psycopg2`:
 ```bash
 pip install psycopg2
+```
 
 ## Использование
 
